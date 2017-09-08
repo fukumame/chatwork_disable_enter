@@ -12,9 +12,7 @@
 ![aaaa](image2.png)
 <br><br>
 
-4. 以下の通りにコードを入力
-![aaaa](image3.png)
-
+4. 以下の通りにコードを入力  
  - コード入力欄  
  ```javascript
  $('#_chatText').unbind('keyup');
@@ -23,6 +21,7 @@
  - ホスト名入力欄  
    - Chatworkの場合： `www.chatwork.com`  
    - KDDI Chatworkの場合： `kcw.kddi.ne.jp`
+ ![aaaa](image3.png)
 <br><br>
 
 5. 以下の通りにコンセント部分をクリック
