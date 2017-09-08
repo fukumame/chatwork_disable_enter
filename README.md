@@ -20,8 +20,9 @@
 
  - ホスト名入力欄  
    - Chatworkの場合： `www.chatwork.com`  
-   - KDDI Chatworkの場合： `kcw.kddi.ne.jp`
- ![aaaa](image3.png)
+   - KDDI Chatworkの場合： `kcw.kddi.ne.jp`  
+
+![aaaa](image3.png)
 <br><br>
 
 5. 以下の通りにコンセント部分をクリック
