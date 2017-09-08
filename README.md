@@ -1,9 +1,9 @@
-# Chatworkのメッセージ入力時に、Enterキー (or Enter + Shift)押下による誤送信を防ぐ方法
+## Chatworkのメッセージ入力時に、Enterキー (or Enter + Shift)押下による誤送信を防ぐ方法
 
 1. Chromeの拡張機能で以下をインストールする
- - https://chrome.google.com/webstore/detail/scriptautorunner/gpgjofmpmjjopcogjgdldidobhmjmdbm
-
+  - https://chrome.google.com/webstore/detail/scriptautorunner/gpgjofmpmjjopcogjgdldidobhmjmdbm
 <br><br>
+
 2. 図のとおりにアイコンをクリック
 ![aaaa](image1.png)
 <br><br>
