@@ -33,5 +33,5 @@
 ![aaaa](image6.png)
 <br><br>
 
-7. Chatworkの画面をリロードして完了
+7. Chatworkの画面をリロードして完了  
   - これで、Enterキーないし、Enter+Shiftを押しても、送信されなくなる。 (送信の際は送信ボタンの押下が必要。)
